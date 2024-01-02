@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm karima mahmoud</h1>
-<h3 align="center">junior data science|machine learning| deep learning engineer</h3>
+<h3 align="center">junior data science| machine learning | deep learning engineer</h3>
 
 - 👨‍💻 I’m currently learning **AI && embedded system**
 
 - 📫 you can connect with me **karimamahmoud333@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
