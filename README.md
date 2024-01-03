@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.karima-mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.karima-mahmoud" height="30" width="40" /></a>
-<a href="https://twitter.com/kimia10110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kimia10110" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/karima-mahmoud-41a41424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karima-mahmoud-41a41424b" height="30" width="40" /></a>
 <a href="https://fb.com/karima.mahmoud.528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karima.mahmoud.528" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/karimamahmoud8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karimamahmoud8844" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
