@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm karima mahmoud</h1>
-<h3 align="center"> data science|machine learning| deep learning engineer</h3>
+<h3 align="center"> Data science|Machine learning| Deep learning engineer</h3>
 
 
 
