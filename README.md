@@ -2,7 +2,7 @@
 <h3 align="center"> Data science|Machine learning| Deep learning engineer</h3>
 
 
-AI Engineer with experience in designing and developing AI systems. Strong programming, data analysis, data science , and machine learning skills, with a passion for applying AI techniques to solve real-world problems and improve operational efficiency. Also has a strong interest in embedded systems and integrating them with AI technologies
+Junior AI developer with experience in designing and developing AI systems. Strong programming, data analysis, data science , and machine learning skills, with a passion for applying AI techniques to solve real-world problems and improve operational efficiency. Also has a strong interest in embedded systems and integrating them with AI technologies
  
 
 
