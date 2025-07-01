@@ -81,6 +81,4 @@ Reach me via:
 </p>
 ---
 
-![Snake animation](https://github.com/karima-mahmoud/karima-mahmoud/blob/output/github-contribution-grid-snake.svg)
-
 
