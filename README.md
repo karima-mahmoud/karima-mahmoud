@@ -80,3 +80,6 @@ Reach me via:
   <a href="https://t.me/Karimamahmoudsalem1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
 ```
+![Snake animation](https://github.com/karima-mahmoud/karima-mahmoud/blob/output/github-contribution-grid-snake.svg)
+
+
