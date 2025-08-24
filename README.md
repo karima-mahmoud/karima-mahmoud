@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/karima-mahmoud-41a41424b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:karima.mahmoud.github@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/Karimamahmoudsalem1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://docs.google.com/document/d/1l_fV-yj1PGI5-RUW-U8X23Y9pQh4oahN/edit?usp=sharing&ouid=100341591332479697419&rtpof=true&sd=true">
+  <a href="https://drive.google.com/file/d/1H0DQBecPElyLgqzaN3-VJK8k4ov7fmAQ/view?usp=sharing">
   <img src="https://img.shields.io/badge/My%20CV-blue?style=flat-square&logo=google-drive&logoColor=white"/>
 </a>
 </p>
