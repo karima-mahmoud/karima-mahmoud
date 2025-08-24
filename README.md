@@ -1,4 +1,4 @@
-<h1 align="center"> Hello I'm Karima <br> I'm AI Developer</h1>
+<h1 align="center"> Hello I'm Karima <br> I'm AI Engineer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karima-mahmoud-41a41424b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
@@ -63,13 +63,15 @@
 ---
 
 ## 🎯 About Me
-Hi! I'm **Karima**, an AI develpoer. I undergraduated in the Faculty of Computers and Artificial Intelligence.
+I am a Junior AI Engineer and undergraduate AI student passionate about building intelligent systems and solving real-world problems with Artificial Intelligence and Machine Learning.
+During my journey, I have worked on projects in Machine Learning, Deep Learning, and Natural Language Processing (NLP), applying algorithms and models to deliver practical solutions.
 
-In the AI department, I've built and deployed models in computer vision, natural language processing, and recommendation systems. 
+I enjoy experimenting with AI frameworks and tools (TensorFlow, PyTorch, Scikit-learn) and have experience developing AI applications ranging from data preprocessing to training and deploying models.
 
-I passion for applying AI techniques to solve real-world problems and improve operational efficiency. Also has a strong interest in  Robotics and integrating them with AI technologies
- .
-
+Currently, I am focused on:
+Enhancing my skills in Generative AI, LLMs, and RAG systems.
+Working on academic and personal projects that strengthen my understanding of AI concepts.
+Exploring how AI can be integrated into real-world applications to create impact.
 
 ---
 
