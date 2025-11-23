@@ -10,6 +10,10 @@
   <a href="https://drive.google.com/file/d/1H0DQBecPElyLgqzaN3-VJK8k4ov7fmAQ/view?usp=sharing">
   <img src="https://img.shields.io/badge/My%20CV-blue?style=flat-square&logo=google-drive&logoColor=white"/>
 </a>
+  <a href="https://www.kaggle.com/karimamahmoud" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</a>
+
 </p>
 
 ---
