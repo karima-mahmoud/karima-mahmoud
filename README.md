@@ -16,30 +16,8 @@
 
 </p>
 
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blue?style=for-the-badge&logo=appveyor)](https://karima-portfolio.vercel.app/)
 
-<a href="https://karima-portfolio.vercel.app/" target="_blank" class="big-button">
-  My Portfolio
-</a>
-
-<style>
-.big-button {
-  display: block;              
-  width: 100%;                
-  padding: 40px 0;           
-  text-align: center;          
-  background-color: #1e40af;   
-  color: white;               
-  font-size: 24px;             
-  font-weight: bold;
-  text-decoration: none;       
-  border-radius: 12px;      
-  transition: background 0.3s;
-}
-
-.big-button:hover {
-  background-color: #3b82f6;   
-}
-</style>
 ---
 
 ## 🚀 Skills
