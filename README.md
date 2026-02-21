@@ -71,7 +71,7 @@
 ---
 
 ## 🎯 About Me
-I am a Junior AI Engineer and undergraduate AI student passionate about building intelligent systems and solving real-world problems with Artificial Intelligence and Machine Learning.
+I am a  Entry level AI Engineer and undergraduate AI student passionate about building intelligent systems and solving real-world problems with Artificial Intelligence and Machine Learning.
 During my journey, I have worked on projects in Machine Learning, Deep Learning, and Natural Language Processing (NLP), applying algorithms and models to deliver practical solutions.
 
 I enjoy experimenting with AI frameworks and tools (TensorFlow, PyTorch, Scikit-learn) and have experience developing AI applications ranging from data preprocessing to training and deploying models.
