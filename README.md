@@ -71,15 +71,19 @@
 ---
 
 ## 🎯 About Me
-I am a  Entry level AI Engineer and undergraduate AI student passionate about building intelligent systems and solving real-world problems with Artificial Intelligence and Machine Learning.
-During my journey, I have worked on projects in Machine Learning, Deep Learning, and Natural Language Processing (NLP), applying algorithms and models to deliver practical solutions.
+**Junior AI Engineer** with a Bachelor's degree in **Computer Science and Artificial Intelligence**, passionate about designing and building production-ready AI applications that solve real-world problems.
 
-I enjoy experimenting with AI frameworks and tools (TensorFlow, PyTorch, Scikit-learn) and have experience developing AI applications ranging from data preprocessing to training and deploying models.
+I have hands-on experience developing end-to-end AI solutions across **Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI**. My work covers the complete AI development lifecycle, including data preprocessing, model training, evaluation, API development, deployment, and production integration.
+
+I enjoy building scalable AI systems using technologies such as **Python, FastAPI, TensorFlow, PyTorch, Scikit-learn, Hugging Face, Docker, and AWS**, with a strong focus on clean architecture, maintainable code, and production best practices.
 
 Currently, I am focused on:
-Enhancing my skills in Generative AI, LLMs, and RAG systems.
-Working on academic and personal projects that strengthen my understanding of AI concepts.
-Exploring how AI can be integrated into real-world applications to create impact.
+
+* Building production-ready AI applications and intelligent automation systems.
+* Developing LLM-powered solutions using **RAG, AI Agents, and Generative AI**.
+* Designing scalable backend services with **FastAPI** and deploying AI models using modern DevOps practices.
+* Continuously improving my software engineering and MLOps skills while contributing to impactful AI projects.
+
 
 ---
 
